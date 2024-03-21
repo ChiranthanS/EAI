@@ -1,6 +1,6 @@
 # dmancha-cshadaks-dbraj-a3
 
-## Part 1: Part-of-speech tagging
+## Part 1: Part-of-speech tagging.
 
 The goal of the problem is to mark every word in a sentence with its corresponding part of speech. These are Noun, Adjective, Verb, etc.
 
